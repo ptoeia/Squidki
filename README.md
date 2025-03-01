@@ -1,6 +1,6 @@
 # Squidki - A Fan-Made Rhythm Survival Game
 
-![Squidki Logo](assets/logo.png)
+![Squidki Logo](squidki.png)
 
 ## 🎮 Game Overview
 
